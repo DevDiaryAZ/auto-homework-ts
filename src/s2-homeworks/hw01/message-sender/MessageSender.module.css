@@ -20,6 +20,8 @@
     position: relative;
     border: none;
     resize: none;
+    padding-top: 11px;
+    padding-left: 10px;
 }
 
 .textarea::-webkit-input-placeholder {
