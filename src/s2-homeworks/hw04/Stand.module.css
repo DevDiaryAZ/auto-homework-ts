@@ -1,4 +1,4 @@
-.stand {
+div.stand {
     display: flex;
     justify-content: space-between;
     align-items: start;
